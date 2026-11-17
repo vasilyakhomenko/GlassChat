@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Vellum">
+  <rect width="32" height="32" rx="7" fill="#09090B"/>
+  <rect x="1.25" y="1.25" width="29.5" height="29.5" rx="6" fill="none" stroke="#A1A1AA" stroke-width="1.75"/>
+  <path d="M7.2 8.2h17.6v2.15H7.2z" fill="#F4F4F5" opacity="0.55"/>
+  <path fill="#F4F4F5" d="M6.6 11.2 16 25.2 25.4 11.2 21.15 11.2 16 19.85 10.85 11.2z"/>
+</svg>

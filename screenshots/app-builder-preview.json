@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vellum",
+      "hasCanvas": false,
+      "bodyTextLen": 48,
+      "bodyTextHash": "a315aac89b267344636bc2943a5d287f0d3e413e63e9e16bd7e88a76a07102e2",
+      "bodyTextPrefix": "Vellum Открываем студию для совместимых моделей.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vellum",
+      "hasCanvas": false,
+      "bodyTextLen": 741,
+      "bodyTextHash": "0c72365246e9426f1df16a19950692a5a0286f71ab035e4f208a8f8b0530bf1d",
+      "bodyTextPrefix": "Vellum совместимый API Новый чат Пока пусто Архив Библиотека Нас",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
